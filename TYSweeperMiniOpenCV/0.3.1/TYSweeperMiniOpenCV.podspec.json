@@ -1,0 +1,33 @@
+{
+  "name": "TYSweeperMiniOpenCV",
+  "version": "0.3.1",
+  "summary": "A short description of TYSweeperMiniOpenCV.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://registry.code.tuya-inc.top/tuyaIOS/TYSweeperMiniOpenCV",
+  "license": {
+    "type": "none"
+  },
+  "authors": {
+    "TuyaInc": "https://www.tuya.com"
+  },
+  "source": {
+    "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/sdk/ios/TYSweeperMiniOpenCV-0.3.1.zip",
+    "type": "zip"
+  },
+  "requires_arc": true,
+  "static_framework": true,
+  "platforms": {
+    "ios": "8.0"
+  },
+  "ios": {
+    "vendored_frameworks": "ios/*.framework"
+  },
+  "frameworks": [
+    "UIKit",
+    "Foundation",
+    "CoreGraphics",
+    "QuartzCore",
+    "ImageIO"
+  ],
+  "libraries": "c++"
+}
