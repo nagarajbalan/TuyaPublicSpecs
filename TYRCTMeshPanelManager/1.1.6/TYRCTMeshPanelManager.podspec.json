@@ -1,0 +1,25 @@
+{
+    "authors": {
+        "TuyaInc": "https://www.tuya.com"
+    },
+    "dependencies": {
+        "TYFoundationKit": [],
+        "TYModuleServices": [],
+        "TYPanelContext": [],
+        "TYReactNative": []
+    },
+    "description": "TODO: Add long description of the pod here.",
+    "homepage": "https://github.com/TuyaInc",
+    "license": "none",
+    "name": "TYRCTMeshPanelManager",
+    "platforms": {
+        "ios": "9.0"
+    },
+    "source": {
+        "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTMeshPanelManager-1.1.6.zip",
+        "type": "zip"
+    },
+    "summary": "A short description of TYRCTMeshPanelManager.",
+    "vendored_libraries": "TYRCTMeshPanelManager-1.1.6/libTYRCTMeshPanelManager.a",
+    "version": "1.1.6"
+}
