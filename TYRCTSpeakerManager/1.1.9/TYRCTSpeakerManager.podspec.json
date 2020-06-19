@@ -1,0 +1,26 @@
+{
+    "authors": {
+        "TuyaInc": "https://www.tuya.com"
+    },
+    "dependencies": {
+        "DingDangSDK": [],
+        "TYPanelContext": [],
+        "TYReactNative": [],
+        "TYSmartBusinessLibrary": [],
+        "TuyaSmartBaseKit": []
+    },
+    "description": "TODO: Add long description of the pod here.",
+    "homepage": "https://github.com/TuyaInc",
+    "license": "none",
+    "name": "TYRCTSpeakerManager",
+    "platforms": {
+        "ios": "9.0"
+    },
+    "source": {
+        "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTSpeakerManager-1.1.9.zip",
+        "type": "zip"
+    },
+    "summary": "A short description of TYRCTSpeakerManager.",
+    "vendored_libraries": "TYRCTSpeakerManager-1.1.9/libTYRCTSpeakerManager.a",
+    "version": "1.1.9"
+}
