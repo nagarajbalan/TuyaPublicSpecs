@@ -1,0 +1,49 @@
+{
+    "authors": {
+        "TuyaInc": "https://www.tuya.com"
+    },
+    "dependencies": {
+        "Masonry": [],
+        "Reachability": [],
+        "TYBluetoothInterface": [
+            "0.0.8"
+        ],
+        "TYFoundationKit": [
+            "1.10.3"
+        ],
+        "TYModuleManager": [
+            "2.10.0.bizbundle.3.17.6"
+        ],
+        "TYModuleServices": [
+            "2.8.12.bizbundle.3.17.0.8.2"
+        ],
+        "TYOEMConfig": [
+            "1.12.1.bizbundle.3.17.0.1"
+        ],
+        "TYUIKit": [
+            "1.10.2"
+        ],
+        "TuyaSmartBLEMeshKit": [],
+        "TuyaSmartBaseKit": [],
+        "TuyaSmartDeviceKit": [],
+        "TuyaSmartUtil": [],
+        "YYModel": []
+    },
+    "description": "bluetooth interface implemenatation.",
+    "homepage": "https://github.com/TuyaInc",
+    "license": "none",
+    "name": "TYBLEMeshInterfaceImpl",
+    "platforms": {
+        "ios": "9.0"
+    },
+    "pod_target_xcconfig": {
+        "TUYA_PRIVACY_USAGE_DESCRIPTION": "NSBluetoothAlwaysUsageDescription NSBluetoothPeripheralUsageDescription"
+    },
+    "source": {
+        "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYBLEMeshInterfaceImpl-0.0.2.1.zip",
+        "type": "zip"
+    },
+    "summary": "A short description of TYBLEMeshInterface.",
+    "vendored_libraries": "TYBLEMeshInterfaceImpl-0.0.2.1/libTYBLEMeshInterfaceImpl.a",
+    "version": "0.0.2.1.6"
+}
