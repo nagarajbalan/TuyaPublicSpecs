@@ -1,0 +1,47 @@
+{
+    "authors": {
+        "TuyaInc": "https://www.tuya.com"
+    },
+    "dependencies": {
+        "MBProgressHUD": [
+            "~> 0.9.2"
+        ],
+        "TYBaseDebugger": [],
+        "TYConfigHub": [],
+        "TYKVStorageLibrary": [],
+        "TYModuleManager": [],
+        "TYModuleServices": [],
+        "TYNavigationController": [],
+        "TYPhotoBrowser": [],
+        "TYSmartBusinessLibrary": [],
+        "TYUIKit": [],
+        "TYVideoPlayer": [],
+        "dsBridge": [
+            "~> 3.0.202"
+        ]
+    },
+    "frameworks": [
+        "UIKit",
+        "Foundation",
+        "AddressBook",
+        "AddressBookUI",
+        "WebKit"
+    ],
+    "homepage": "https://github.com/TuyaInc",
+    "license": "none",
+    "name": "TYHybridContainer",
+    "platforms": {
+        "ios": "9.0"
+    },
+    "prefix_header_contents": "#import <TYLogMacro/TYLogMacro.h>\n\n#undef TYLogDebug\n#define TYLogDebug(...) TYLogger(0, @\"TYHybridContainer\", ##__VA_ARGS__)\n\n#undef TYLogInfo\n#define TYLogInfo(...)  TYLogger(1,  @\"TYHybridContainer\", ##__VA_ARGS__)\n\n#undef TYLogWarn\n#define TYLogWarn(...)  TYLogger(2,  @\"TYHybridContainer\", ##__VA_ARGS__)\n\n#undef TYLogError\n#define TYLogError(...) TYLogger(3, @\"TYHybridContainer\", ##__VA_ARGS__)",
+    "resources": [
+        "TYHybridContainer-1.2.9.bizbundle.3.17.0/Assets/bundles/*.{bundle}"
+    ],
+    "source": {
+        "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYHybridContainer-1.2.9.bizbundle.3.17.0.zip",
+        "type": "zip"
+    },
+    "summary": "\u5bb9\u5668",
+    "vendored_libraries": "TYHybridContainer-1.2.9.bizbundle.3.17.0/libTYHybridContainer.a",
+    "version": "1.2.9.bizbundle.3.17.0"
+}
