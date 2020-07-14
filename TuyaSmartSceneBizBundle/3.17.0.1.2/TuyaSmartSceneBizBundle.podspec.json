@@ -108,9 +108,6 @@
         "TYSmartSceneModule": [
             "1.7.2"
         ],
-        "TYSmartSpeechModule": [
-            "1.4.3"
-        ],
         "TYSmartUIConfigServices": [
             "0.1.1.bizbundle.3.17.6.1"
         ],
@@ -155,7 +152,6 @@
         "TuyaSmartFeedbackKit": [],
         "TuyaSmartMQTTChannelKit": [],
         "TuyaSmartMessageKit": [],
-        "TuyaSmartPrivateKit": [],
         "TuyaSmartSceneKit": [],
         "TuyaSmartUtil": [],
         "UICKeyChainStore": [],
