@@ -16,9 +16,7 @@
         "TYSmartBusinessLibrary": [],
         "TYUIKit": [],
         "TYVideoPlayer": [],
-        "dsBridge": [
-            "~> 3.0.202"
-        ]
+        "dsBridge": []
     },
     "frameworks": [
         "UIKit",
