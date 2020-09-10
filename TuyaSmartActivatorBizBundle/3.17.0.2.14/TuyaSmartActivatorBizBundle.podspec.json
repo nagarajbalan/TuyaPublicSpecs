@@ -32,9 +32,7 @@
         "TYConfigHub": [
             "1.0.5"
         ],
-        "TYDomainQueryModule": [
-            "0.1.4"
-        ],
+        "TYDomainQueryModule": [],
         "TYEncryptImage": [
             "1.2.3.bizBundle.3.17.6"
         ],
