@@ -131,9 +131,6 @@
         "TuyaSmartCameraM": [],
         "TuyaSmartDeviceKit": [],
         "TuyaSmartFeedbackKit": [],
-        "TuyaSmartHomeKit": [
-            "3.17.0"
-        ],
         "TuyaSmartMQTTChannelKit": [],
         "TuyaSmartMessageKit": [],
         "TuyaSmartSceneKit": [],
