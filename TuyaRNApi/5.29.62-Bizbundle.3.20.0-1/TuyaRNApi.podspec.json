@@ -3,7 +3,7 @@
   "version": "5.29.62-Bizbundle.3.20.0-1",
   "summary": "涂鸦面板 React-Native API",
   "description": "涂鸦面板 React-Native API",
-  "homepage": "https://registry.code.tuya-inc.top/tuyarnplugin/tuyarnapi",
+  "homepage": "https://github.com/TuyaInc",
   "license": "none",
   "authors": {
     "tuya": "tuya@tuya.com"
