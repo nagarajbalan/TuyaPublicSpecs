@@ -1,0 +1,23 @@
+{
+    "authors": {
+        "TuyaInc": "https://www.tuya.com"
+    },
+    "dependencies": {
+        "TYPanelContext": [],
+        "TYReactNative": []
+    },
+    "description": "TODO: Add long description of the pod here.",
+    "homepage": "https://github.com/TuyaInc",
+    "license": "none",
+    "name": "TYRCTSwitchManager",
+    "platforms": {
+        "ios": "9.0"
+    },
+    "source": {
+        "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTSwitchManager-1.0.8.zip",
+        "type": "zip"
+    },
+    "summary": "A short description of TYRCTSwitchManager.",
+    "vendored_libraries": "TYRCTSwitchManager-1.0.8/libTYRCTSwitchManager.a",
+    "version": "1.0.8"
+}
