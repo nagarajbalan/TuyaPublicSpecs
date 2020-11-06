@@ -1,0 +1,24 @@
+{
+    "authors": {
+        "TuyaInc": "https://www.tuya.com"
+    },
+    "dependencies": {
+        "TYPanelContext": [],
+        "TYReactNative": [],
+        "TYUIKit": []
+    },
+    "description": "TODO: Add long description of the pod here.",
+    "homepage": "https://github.com/TuyaInc",
+    "license": "none",
+    "name": "TYRCTLineChartViewManager",
+    "platforms": {
+        "ios": "9.0"
+    },
+    "source": {
+        "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYRCTLineChartViewManager-1.0.5-Bizbundle.3.20.0-2-rc.1.zip",
+        "type": "zip"
+    },
+    "summary": "A short description of TYRCTLineChartViewManager.",
+    "vendored_libraries": "TYRCTLineChartViewManager-1.0.5-Bizbundle.3.20.0-2-rc.1/libTYRCTLineChartViewManager.a",
+    "version": "1.0.5-Bizbundle.3.20.0-2"
+}
