@@ -1,0 +1,19 @@
+{
+    "authors": {
+        "TuyaInc": "https://www.tuya.com"
+    },
+    "description": "TODO: Add long description of the pod here.",
+    "homepage": "https://github.com/TuyaInc",
+    "license": "none",
+    "name": "TYUrlPredefinedExternal",
+    "platforms": {
+        "ios": "8.0"
+    },
+    "source": {
+        "http": "https://airtake-public-data-1254153901.cos.ap-shanghai.myqcloud.com/smart/app/package/pods/ios/TYUrlPredefinedExternal-0.2.47.zip",
+        "type": "zip"
+    },
+    "summary": "\u6d82\u9e26\u516c\u5f00\u77ed\u94fe\u7ec4\u4ef6",
+    "vendored_libraries": "TYUrlPredefinedExternal-0.2.47/libTYUrlPredefinedExternal.a",
+    "version": "0.2.47"
+}
