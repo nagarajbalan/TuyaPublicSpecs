@@ -110,7 +110,9 @@
         "TuyaSmartActivatorKit": [],
         "TuyaSmartBaseKit": [],
         "TuyaSmartBizCore": [],
-        "TuyaSmartCameraBizKit": [],
+        "TuyaSmartCameraBizKit": [
+            "3.21.1"
+        ],
         "TuyaSmartCameraKit": [],
         "TuyaSmartDeviceKit": [],
         "TuyaSmartUtil": [],
