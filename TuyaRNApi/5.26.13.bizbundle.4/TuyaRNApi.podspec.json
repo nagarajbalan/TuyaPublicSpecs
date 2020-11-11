@@ -160,6 +160,9 @@
                 "TYRCTVisionMapManager": [
                     "1.0.20"
                 ],
+                "TYPanelSweeperUtil": [
+                    "~> 0.4.0"
+                ],
                 "TuyaRNApi/Core": []
             },
             "name": "Sweeper"
