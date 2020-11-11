@@ -83,7 +83,9 @@
             "2.0.1"
         ],
         "TuyaSmartBaseKit": [],
-        "TuyaSmartBizCore": [],
+        "TuyaSmartBizCore": [
+            "3.20.0.3"
+        ],
         "TuyaSmartDeviceKit": [],
         "TuyaSmartMessageKit": [],
         "YYModel": [],
