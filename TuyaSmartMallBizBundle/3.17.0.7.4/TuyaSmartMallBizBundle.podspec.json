@@ -75,7 +75,9 @@
             "2.0.1"
         ],
         "TuyaSmartBaseKit": [],
-        "TuyaSmartBizCore": [],
+        "TuyaSmartBizCore": [
+            "3.17.6.3"
+        ],
         "TuyaSmartUtil": [],
         "UICKeyChainStore": [],
         "YYModel": [],

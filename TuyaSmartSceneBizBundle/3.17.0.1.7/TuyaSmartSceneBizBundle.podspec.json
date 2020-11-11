@@ -143,7 +143,9 @@
             "1.0.0"
         ],
         "TuyaSmartBaseKit": [],
-        "TuyaSmartBizCore": [],
+        "TuyaSmartBizCore": [
+            "3.17.6.3"
+        ],
         "TuyaSmartDeviceKit": [],
         "TuyaSmartFeedbackKit": [],
         "TuyaSmartMQTTChannelKit": [],

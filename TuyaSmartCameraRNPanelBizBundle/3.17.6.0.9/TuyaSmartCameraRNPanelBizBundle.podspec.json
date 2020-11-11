@@ -137,7 +137,9 @@
         ],
         "TuyaSmartActivatorKit": [],
         "TuyaSmartBaseKit": [],
-        "TuyaSmartBizCore": [],
+        "TuyaSmartBizCore": [
+            "3.17.6.3"
+        ],
         "TuyaSmartCameraBase": [],
         "TuyaSmartCameraBizKit": [
             "3.19.2.bizBundle.3.17.6"
