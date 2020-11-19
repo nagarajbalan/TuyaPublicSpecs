@@ -16,9 +16,7 @@
             "2.3.0.3"
         ],
         "Reachability": [],
-        "React": [
-            "0.59.10.1"
-        ],
+        "React": [],
         "SDWebImage": [],
         "SDWebImage/Core": [],
         "TYAlertPickerComponent": [
@@ -129,18 +127,12 @@
             "2.0.1"
         ],
         "TZImagePickerController": [],
-        "TuyaRNApi/Core": [
-            "5.29.62-Bizbundle.3.20.0-1"
-        ],
+        "TuyaRNApi/Core": [],
         "TuyaSmartActivatorKit": [],
         "TuyaSmartBaseKit": [],
-        "TuyaSmartBizCore": [
-            "3.20.0.3"
-        ],
+        "TuyaSmartBizCore": [],
         "TuyaSmartCameraBase": [],
-        "TuyaSmartCameraBizKit": [
-            "3.21.1"
-        ],
+        "TuyaSmartCameraBizKit": [],
         "TuyaSmartCameraKit": [],
         "TuyaSmartCameraM": [],
         "TuyaSmartDeviceKit": [],
